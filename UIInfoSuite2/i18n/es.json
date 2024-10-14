@@ -1,26 +1,49 @@
 {
   // GUI - Game Menu
-  // "OptionsTabTooltip": "UI Info Suite 2 Options", // TODO
+  // "OptionsTabTooltip": "Opciones de UI Info Suite 2",
   //GUI - Billboard
   "Billboard": "Tablón de anuncios",
   "Calendar": "Calendario",
+  "SlayerGoals": "Objetivos de erradicación de monstruos",
   //GUI - Seed shop
   "HarvestPrice": "Precio de la cosecha",
   //Production
   "Days": "días",
   "Hours": "horas",
   "Minutes": "minutos",
+  "MachineProcessing": "Procesando",
+  "MachineDone": "Terminado",
   //Harvest
   "DaysToMature": "días para madurar",
   "ReadyToHarvest": "¡Listo para cosechar!",
+  "With": "con",
+  "Fertilized": "fertilizado",
+  "DoesNotProduceThisSeason": "No produce esta temporada",
+  //Tree
+  "Stump": "tocón",
+  // This space is required for languages that use a space between words, delete otherwise (e.g. Korean)
+  "Tree": "Árbol",
+  "stage": "Etapa",
+  "Oak": "Roble",
+  "Maple": "Arce",
+  "Pine": "Pino",
+  "Palm": "Palmera",
+  "Mushroom": "Seta",
+  "Mahogany": "Caoba",
+  "PalmJungle": "Palmera (Jungla)",
+  "GreenRainType1": "Lluvia Verde Tipo 1",
+  "GreenRainType2": "Lluvia Verde Tipo 2",
+  "GreenRainType3": "Lluvia Verde Tipo 3",
+  "Mystic": "Místico",
+  "VmvBirch": "(VMV) Abedul",
   //Display icons - General
   "TodaysRecipe": "Receta de hoy: ",
   "TravelingMerchantIsInTown": "¡El comerciante ambulante está en la zona!",
   "RainNextDay": "Mañana lloverá",
   "ThunderstormNextDay": "Mañana habrá tormenta eléctrica",
   "SnowNextDay": "Mañana nevará",
-  "IslandRainNextDay": "Mañana lloverá",
-  "IslandThunderstormNextDay": "Mañana habrá tormenta eléctrica",
+  "IslandRainNextDay": "Mañana lloverá en la isla",
+  "IslandThunderstormNextDay": "Mañana habrá tormenta eléctrica en la isla",
   "DaysUntilToolIsUpgraded": "{0} día(s) hasta que {1} termine de actualizarse",
   "ToolIsFinishedBeingUpgraded": "¡{0} está terminado!",
   "NpcBirthday": "Cumpleaños de {0}",
@@ -34,7 +57,7 @@
   "DailyLuckValue": "Tu suerte diaria es {0}",
   "FeelingLucky": "¡Tienes suerte!",
   "LuckyButNotTooLucky": "Te sientes con suerte... aunque no demasiada",
-  "NotFeelingLuckyAtAll": "No te sientes afortunado en absoluto...",
+  "NotFeelingLuckyAtAll": "Hoy no te sientes nada afortunado...",
   "MaybeStayHome": "Tal vez deberías quedarte en casa hoy...",
   "LuckStatus1": "¡Tienes suerte!",
   "LuckStatus2": "Hoy me siento un poco afortunado",
